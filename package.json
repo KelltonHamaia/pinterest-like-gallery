@@ -1,0 +1,15 @@
+{
+  "name": "pinterest-anime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wind": "tailwind build -i globals.css -o src/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
